@@ -1,0 +1,52 @@
+---
+layout: main
+---
+<nav class="navdrawer-container promote-layer">
+    <ul>
+        {% for section in site.data.sections %}
+            <li><a href="#{{ section.id }}" class="to-{{ section.id }}">
+                    {{ section.name }}
+            </a></li>
+        {% endfor %}
+    </ul>
+</nav>
+<main>
+	<br />
+	<div class="panel panel-primary">
+		<div class="panel-heading">
+			<h3 class="panel-title">How To Reach Me</h3>
+		</div>
+		<div class="panel-body">
+			<div class="row">
+				<div class="col-md-6 col-xs-12 nohref">
+					<a href="http://rogerstringer.com"><span class="glyphicon glyphicon-home"></span> rogerstringer.com</a><br/>
+					<a href="mailto:roger.stringer@me.com"><span class="glyphicon glyphicon-envelope"></span> roger.stringer@me.com</a><br/>
+					<span class="glyphicon glyphicon-phone"></span> 250-486-1027
+				</div>
+				<div class="col-md-6 col-xs-12 nohref">
+					<a href="http://ca.linkedin.com/in/rogerstringer"><i class="fa fa-linkedin-square"></i> http://ca.linkedin.com/in/rogerstringer</a><br />
+					<a href="http://github.com/freekrai"><i class="fa fa-github"></i> @freekrai</a><br />
+					<a href="http://twitter.com/freekrai"><i class="fa fa-twitter"></i> @freekrai</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<br />
+    {% for section in site.data.sections %}
+        <div class="section">
+            <h2 id="{{ section.id }}">
+                {{ section.name }}
+            </h2>
+            <hr />
+            {% capture section_layout %}resume/{{section.layout}}.html{% endcapture %}
+            {% for hash in site.data %}
+              {% if hash[0] == section.id %}
+                {% assign blurb = hash[1] %}
+                {% include {{section_layout}} %}
+              {% endif %}
+            {% endfor %}
+        </div>
+    {% endfor %}
+</main>
+
+

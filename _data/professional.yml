@@ -1,0 +1,193 @@
+- org:  Twilio
+  role: Contract Developer
+  location: Remote
+  when: Oct 2014 to Nov 2014
+  bullets: 
+    - I worked with Twilio to build an MMS Whiteboard app to display on a giant 55 inch touchscreen monitor at the AWS reInvent 2014 conference in Las Vegas.
+    - The MMS Whiteboard app let you draw on an HTML canvas on a web page, then enter a phone number to send the drawn artwork off to a cell phone.
+    - Part of this project also involved traveling to the AWS reInvent conference in Las Vegas and attending the Twilio booth to provide technical expertise and sign copies of my books.
+
+- org:  Twilio
+  role: Contract Author / Web Developer
+  location: Remote
+  when: April 2014 to Oct 2014
+  bullets: 
+    - While under contract at Twilio, I was involved in working on the Twilio  project, which involved planning, writing content and building demo apps to teach developers how to use Twilio in various ways ranging from
+    - Twilio Voice for handling incoming and outgoing calls for project such as IVRs and moderated conference calling systems.
+    - Twilio Messaging for handling incoming and outgoing sms messages
+    - Building an incoming call center
+    - Building an outgoing call center.
+    - Built the Twilio Application Skeleton on top of Laravel for rapid Twilio development
+
+- org: Pakt Publishing
+  role: Contract Author (Twilio Cookbook second edition)
+  location: remote
+  when: January 2014 to March 2014
+  bullets: 
+    - While writing the Twilio Cookbook Second Edition, my duties included developing an outline for the expanded chapters, and then writing and developing code for each of the three new chapters of the book.
+    - This is followed by working with editors and reviewers to produce a finished product.
+    - Developed three new chapters for the second edition of the Twilio Cookbook.
+    - Developed code for each chapter, which ranged from company directories, to voicemail systems, to IVR systems and SMS polling systems. Not much was left uncovered in this book.
+    - Wrote each chapter in such a way to take the reader on a journey and educate without getting too technical
+
+- org: Twilio
+  role: Contract
+  location: remote
+  when: December 2013 to December 2013
+  bullets: 
+    - Worked with Twilio to create the Picture Messaging Webinar, based on the Picture Messaging chapter I previously wrote for them.
+
+- org: Automattic
+  role: Contract Developer
+  location: remote
+  when: November 2013 to December 2013
+  bullets: 
+    - I worked with Automattic to build the PHP library for Simperium.com.
+    - I also worked with Automattic to build a command-line test suite that could send multiple parallel tests to their Simperium.com API and return results.
+    - A separate test suite also performed similar actions on the Simperium.com auth API to test adding, updating and removing users from the API as multiple parallel tests to simulate an app with multiple users signing up and trying out things.
+
+- org:  Twilio
+  role: Contract Author
+  location: Remote
+  when: August 2013 to September 2013
+  bullets:
+    - As part of the Twilio Cookbook and in preparation for TwilioCon, Twilio contracted me to write a “secret” chapter on their new Picture Messaging technology that would be released on the same day as the book launch.
+    - Worked with Twilio’s engineers to work out an outline for the “secret” chapter
+    - Developed a photo gallery system that a user could use their phone to text an image to
+    - Also developed a send to a friend system that works with the gallery and allows users to send an image to their friends phones
+    - Finally, added the ability to filter images based on nudity and banned words
+    - Traveled to San Francisco for TwilioCon, where the book was launched along with the new Picture Messaging technology and did book signings
+
+- org: Copter Labs
+  role: Contract Developer
+  location: remote
+  when: January 2012 to Present
+  bullets: 
+    - Contract Position, worked on WordPress sites for clients such as
+    - Lean Bodies Consulting (WordPress site, and API for iOS and Android apps powered by WordPress)
+    - Intel
+    - Curls and Whey
+    - Lyman Motors
+    - Floav
+    - The Proactive Edge
+    - Modestly Redefined
+    - Kommitted
+    - Neghar Fonooni
+    - Roman Fitness Systems (iOS app and API)
+    - ThorneFX
+    - These projects varied from WordPress themes and plugins, with integration of payment services, to membership sites and iOS and Android apps.
+
+- org: Pakt Publishing
+  role: Author
+  location: remote
+  when: November 2013 to July 2014
+  bullets: 
+    - While writing the Twilio Cookbook, my duties included developing an outline, and then writing and developing code for each of the ten chapters of the book. This is followed by working with editors and reviewers to produce a finished product.
+    - Developed an outline of the book.
+    - Developed code for each chapter, which ranged from company directories, to voicemail systems, to IVR systems and SMS polling systems. Not much was left uncovered in this book.
+    - Wrote each chapter in such a way to take the reader on a journey and educate without getting too technical
+
+- org: Vericorder Technology
+  role: Senior Application Developer
+  location: Kelowna, BC
+  when: August 2010 to October 2013
+  bullets: 
+    - My duties at Vericorder included development and maintenance of findstringers.com, verisend system, as well as working with our servers and other web apps.
+    - Designed and developed the vodd.io global account API system used by our various platforms so that one account works on all sites. Using PHP and SimpleDB, later migrated to MongoDB
+    - Developed findstringers.com using WordPress as the backend, with custom database hooks to integrate with our media integration system.
+    - Developed the Verisend system to handle file uploads and store and forward
+    - Built the initial HTML5 version of the IPTV system to work on iPads, iPhones and other mobile devices.
+    - Responsible for maintaining web servers and daily backup strategies on our various MediaTemple and Amazon servers.
+    - Developer the Voddio Console which integrated with the Voddio and First Video apps and the MiMS Platform to provide a console for target and user management which talked to the iOS apps.
+    - Developed the initial VeriLocal framework for IPTV systems using WordPress
+    - Maintained MiMS Platform on Google App Engine with Python
+
+- org: Bongarde Holdings
+  role: Lead Application Developer
+  location: Penticton, BC
+  when: July 2007 to June 2010
+  bullets: 
+    - My duties at Bongarde included development and maintenance of their various e-commerce sites, developing new products such as the mysafetytv.com line of products, and rebuilding their existing websites such as safetyxchange.org and safetysmartonline.com.
+    - Designed and developed ecommerce sites safetysmart.com and safetyposter.com. These sites used ASP and PHP respectively.
+    - Was responsible for development of safetyxchange.org, mysafetytv.com. These sites used ASP, PHP and WordPress
+    - Utilized WordPress and Amember integration together to build newsletter sites such as safetycomplianceinsider.com, hrcomplianceinsider.com, payrollcomplianceinsider.com, and environmentalcomplianceinsider.com
+    - Acted as project manager to other team members and laised with members of other departments that were involved in new products.
+    - Built the mysafetytv.com system, which let users select slides via a control panel that would then be downloaded onto their TVs at their workplace. Each TV was equipped with a netbook, that contained software written by me to download new updates that were available from their custom folder, or would also update whenever you plugged a memory stick containing a new slideshow into a slot on the side of the netbook.
+    - Responsible for maintaining company linux web servers.
+
+- org: Columbus Networks
+  role: Lead Developer, Webmaster (contract)
+  location: remote
+  when: October 2006 to January 2009
+  bullets: 
+    - While under contract with Columbus Networks, I maintained their existing websites and servers, and also designed and built new websites for them.
+    - Built a job search template system where they could use a backend to create new pre-built websites from scratch and then simply edit a few template files to change how it looks completely
+    - Designed, and developed schooljobsnow.com which was a job search site that was built in conjunction with scholastic (the book fair guys).
+    - Other projects involved building their emails4educators.com website and a custom domain parking system. Emails4educators allowed them to offer webmail services to teachers around the world, and the domain parking system let them template domains that were parked to be used as landing pages for the webmail system.
+    - Also maintained their corporate websites and introduced new technologies to them, as well as upgrading all of their websites to PHP5 instead of being early PHP4.
+    - Also managed other contractors and instructed them on where code could be uploaded and which parts of the sites did what.
+    - As webmaster, I was responsible for keeping the servers up to date and running well. This also included keeping software updated, and performing daily backups of the websites and database which each week, were downloaded to Amazon S3 for holding.
+
+- org: Pareto Systems
+  role: Webmaster / Web Developer
+  location: Kelowna, BC
+  when: March 2005 to October 2006
+  bullets: 
+    - While employed at Pareto Systems
+    - I worked in the development of their 8020Platform CRM system and also was the webmaster for their web sites.
+    - Maintenance of corporate sites involved design, development and also handling of search engine marketing campaigns for them.
+    - webmaster duties including keeping the servers up to date and running well. Setting up Nagios to monitor the servers, and also keeping daily backups of the database which were then copied weekly to DVDs and locked in a fire-proof safe.
+    - Work on their CRM system included development of framework for their mobile site as well as work on various aspects of their main CRM site. This included using PHP / MySQL and SOAP to create a user-friendly environment for users to manage their business.
+    - This also involved developing in Java and JSP as the company switched their focus from a PHP / MySQL system to a PHP client that talked to a JSP SOAP server. Java clients were also developed to test the system with, and to do some maintenance applications.
+    - Another responsibility with Pareto involved driving traffic to their websites and generating sales through the use of Search Engine Optimization and various traffic campaigns through adwords.
+
+- org: Devshed.com
+  role: Freelance writer
+  location: 
+  when: 2004 to 2006
+  bullets: 
+    - I've also done freelance writing for DevShed.com and their sister site SEOChat.com. I have had several articles published over the past 2 years. DevShed.com is currently one of the largest resources for articles on the Internet related to web design and SEO.
+
+- org: Rackforce
+  role: Lead Application Developer
+  location: Kelowna, BC
+  when: June 2002 to February 2005
+  bullets: 
+    - While employed by RackForce
+    - I was responsible for building and maintaining the company's support system, billing system, sales system, XML affiliate system, and company web site.
+    - Using PHP / MySql, I designed and built a multi-queue ticket system which customers could use to create tickets that were posted to the support department and in turn dealt with by them. This multi-department system also featured tickets that were used by the billing department for handling billing issues.
+    - The sales system consisted of an XML interface that handled product and order management and also a system where the sales department could review orders and site stats.
+    - I also provided tech support to customers via call-in and ticket system.
+    - Server admin under Linux for several of our web hosting customers as well as maintenance of our shared servers and VPS servers
+    - Programming in Visual Basic, Visual C++ and Java were also utilized for various projects where an actual program was wanted rather than a web-based application.
+    - Programming work for various customers which involved PHP, Ruby, HTML, ASP, Perl and Cold Fusion depending on the project.
+
+- org: Columbus Networks
+  role: Web Developer / Webmaster
+  location: Kelowna, BC
+  when: May 2001 to May 2002
+  bullets: 
+    - While employed by Columbus
+    - I used Perl, PHP, JavaScript, Flash and SQL to create various software products and services for use by both clients and internally.
+    - Some of these projects included developing a PHP based site for Waterway House Boats which included a backend manager that allowed users to use a FrontPage-like editor to create pages that were viewed by users, the manager also featured a photo album to allow stock photos to be uploaded and used in these pages. A system was also implemented so that all reservations and forms were saved into the database and the manager could log into to the backend manager and view the saved messages. 
+    - The manager could also send newsletters to users.
+    - I also developed the educationjobfairs.com site, which is a site that allows exhibitors to host booths in job fairs and job seekers to visit and learn about the exhibitors. This site included a Flash-based chat system, a message board for each booth, and an exhibitor's lounge, which was where exhibitors could edit their booths through a booth wizard system, chat with jobseekers during scheduled chat sessions, and view and reply to messages left in their message board. An admin section was also created which allowed employees of Columbus to set up job fairs and add exhibitors to each job fair. This system also allowed users to set reminders to receive an e-mail before a chat session started, and also sent a reminder to all chat moderators 2 hours before their scheduled chat sessions
+    
+- org: Acro Media Inc
+  role: Web Developer / Webmaster
+  location: Kelowna, BC
+  when: March 2000 to October 2000
+  bullets: 
+    - While employed by Acro
+    - Developed software products and services for use by clients and also internally, within the company. Using my experience in C, C++, JavaScript and SQL, I created components that could be reused with modifications to meet specifications of individual clients.
+    - Also did some network admin duties such as upgrading the company firewall computer to Red Hat Linux and installing proper security programs and settings. Also upgraded and debugged ftp server on company web host machine. This ftp upgrade included designing and implementing a web-based user manager for managing ftp users via the web.
+
+- org: Packetware
+  role: Application Developer
+  location: Sydney, NS
+  when: May 1998 to January 1999
+  bullets: 
+    - Under Java, I developed the User Interface for a Call Center and used Remote Method Invocation for chat and databasing, also I developed an HTML browser which was built into the User Interface. I also used Java Native Interface (JNI) to develop a video conferencing program under Windows 95 as part of a Java-based BBS that was under development. I also developed an e-mail program and an instant messenger program for this BBS
+    - Under C and C++, I developed client/server applications in C / C++. Developed benchmarking software to be run on various real-time Operating Systems to test for speed, multitasking, network support, etc. Developed software to test Video Wavelet Codecs in C++. Developed and implemented an image-processing library for use by various C++ programs for loading, saving, and manipulating image files.
+    - Under Delphi, I worked on the company's Trakonic software which integrated with libraries written in C++ for motion detection.
+    - Under Cold Fusion, I developed the company website which featured a CMS, corporate CRM / project management system and invoicing system, and an auto update system for the company's Trakonic software.
